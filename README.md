@@ -17,7 +17,7 @@ This project is a digital recreation of the classic **Guess Who** board game, de
 - 🖼️ GUI using Java Swing
 - 🎵 Background music to enhance gameplay
 - 🔁 Reset and replay functionality
-
+- 📜 Leaderboard produced at the end to keep score
 ---
 
 ## 🖥️ Built In

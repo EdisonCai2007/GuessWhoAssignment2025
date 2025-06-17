@@ -1,6 +1,6 @@
 # 🎲 Guess Who - ICS4U Final Assignment
 
-### Authors: Edison Cai, Samuel Xu, and Rocky Shi
+### Authors: Edison Cai, Samuel Xu, and Rocky Shi :D
 📅 Date: June 13, 2025
 
 ---
